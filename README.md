@@ -10,4 +10,4 @@ Teks Normal mudah untuk ditulis, cukup tulis tanpa pemformatan apa pun dan teks 
 4. Hyperlink
 Jika Anda ingin menambahkan hyperlink ke teks, masukkan ke dalam kurung siku, diikuti dengan tanda kurung normal yang berisi tautan.
 
-<img src="gambar.jpg">
+<img src="image/gambar.jpg">
