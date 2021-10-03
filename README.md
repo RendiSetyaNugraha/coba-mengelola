@@ -1,4 +1,4 @@
-1. Kepala                                                                                                               
+#1. Kepala                                                                                                               
 Jika Anda ingin menulis Heading dengan ukuran besar, Anda dapat menggunakan # diikuti dengan teks.
 2. Sub-Judul
 Jika Anda ingin menurunkan Ukuran Heading lebih kecil dari aslinya, Anda dapat menambahkan tambahan #.
